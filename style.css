@@ -1,0 +1,44 @@
+.text {
+  color: rgb(0, 234, 0);
+  font-family: "Consolas";
+  font-size: 24px;
+}
+
+.text-noti {
+  color: white;
+  font-size: 100px;
+}
+
+#big-text {
+  font-size: 150px;
+}
+
+.bold-text {
+  font-weight: bold;
+}
+
+.light-text {
+  color: #7f7777;
+}
+
+.background {
+  background: linear-gradient(
+    to bottom,
+    #0a3b13,
+    #07290e,
+    #0a3b13,
+    #07290e,
+    #0a3b13,
+    #07290e,
+    #0a3b13,
+    #07290e,
+    #0a3b13,
+    #07290e,
+    #0a3b13,
+    #07290e,
+    #0a3b13,
+    #07290e,
+    #0a3b13,
+    #07290e
+  );
+}
